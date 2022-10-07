@@ -1,0 +1,25 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon app.js",
+        "run": "node app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "config": "^3.3.7",
+        "cookie-parser": "^1.4.6",
+        "cors": "^2.8.5",
+        "express": "^4.17.2",
+        "jsonwebtoken": "^8.5.1",
+        "mongo": "^0.1.0",
+        "mongoose": "^6.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}

@@ -1,0 +1,25 @@
+.root {
+    padding: 20px;
+}
+
+.root li {
+    margin-bottom: 10px;
+}
+
+.root li:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.deleteWizard {
+    color: cornflowerblue;
+    cursor: pointer;
+}
+
+.deleteWizard:hover {
+    text-decoration: underline;
+}
+.h4 , b{
+    color: rgb(110, 110, 228);
+    cursor: pointer;
+}

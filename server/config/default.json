@@ -1,0 +1,8 @@
+{
+    "db": {
+        "url": "mongodb+srv://admin:admin@cluster0.fi5fl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    },
+    "jwt": {
+        "secret": "wizard"
+    }
+}

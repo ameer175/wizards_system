@@ -1,0 +1,21 @@
+.label {
+    display: block;
+}
+
+.inputGroup {
+    margin-bottom: 10px;
+}
+.inputGroup:not(:last-child) {
+    padding: 10px 0;
+    border-bottom: 1px solid black;
+}
+
+.checkboxGroup {
+    display: block;
+}
+
+.imgList {
+    display: inline-block;
+    border: 1px solid black;
+    margin: 10px;
+}
